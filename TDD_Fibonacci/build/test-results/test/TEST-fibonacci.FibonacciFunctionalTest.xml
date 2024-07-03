@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fibonacci.FibonacciFunctionalTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-05-03T02:56:04" hostname="lishizheng" time="0.246">
+  <properties/>
+  <testcase name="verifyFibonacciBigInteger()" classname="fibonacci.FibonacciFunctionalTest" time="0.233"/>
+  <testcase name="verifyFibonacci()" classname="fibonacci.FibonacciFunctionalTest" time="0.002"/>
+  <testcase name="Canary()" classname="fibonacci.FibonacciFunctionalTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

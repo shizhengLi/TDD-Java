@@ -1,0 +1,47 @@
+xcanary test
+
+imperative solutions:
+xfibonacci at position 0
+xfibonacci at position 1
+xfibonacci at position 2
+xfibonacci at position 5
+xfibonacci at position 10
+xfibonacci at position 40
+xfibonacci at position 50
+xfibonacci at position 100
+xfibonacci at position 92
+
+functional solutions:
+xfibonacci at position 0
+xfibonacci at position 1
+xfibonacci at position 2
+xfibonacci at position 5
+xfibonacci at position 10
+xfibonacci at position 40
+xfibonacci at position 50
+xfibonacci at position 100
+xfibonacci at position 92
+
+simple recursive solutions:
+xfibonacci at position 0
+xfibonacci at position 1
+xfibonacci at position 2
+xfibonacci at position 5
+xfibonacci at position 10
+xfibonacci at position 40
+xfibonacci at position 50
+xfibonacci at position 100
+xfibonacci at position 92
+
+memoized recursive solutions:
+xfibonacci at position 0
+xfibonacci at position 1
+xfibonacci at position 2
+xfibonacci at position 5
+xfibonacci at position 10
+xfibonacci at position 40
+xfibonacci at position 50
+xfibonacci at position 100
+xfibonacci at position 92
+
+xverify the memoized version is faster than the recursive one

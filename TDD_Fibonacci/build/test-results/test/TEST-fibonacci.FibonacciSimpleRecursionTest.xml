@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fibonacci.FibonacciSimpleRecursionTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-05-03T02:56:04" hostname="lishizheng" time="3.027">
+  <properties/>
+  <testcase name="verifyFibonacci()" classname="fibonacci.FibonacciSimpleRecursionTest" time="3.026"/>
+  <testcase name="Canary()" classname="fibonacci.FibonacciSimpleRecursionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
