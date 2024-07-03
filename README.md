@@ -77,6 +77,16 @@ Fibonacci函数的4种实现方式：
 
 
 
+## Results
+
+Result of tests
+
+![image-20240703185128695](./assets/image-20240703185128695.png)
+
+Result of Jacoco
+
+![image-20240703185225019](./assets/image-20240703185225019.png)
+
 ## Structure
 
 在TDD_Fibonacci文件夹下，有如下的主要文件：
