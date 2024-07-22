@@ -2,7 +2,7 @@
 
 ## Contents
 
-这个repo记录Java语言下使用测试驱动开发(Test-Driven Development, TDD) 来实现4种斐波那契函数。从零到一，自己独立构思设计。这是 [Dr. Venkat Subramaniam](https://agiledeveloper.com/aboutus.html) 2022年Software Design 课程的一部分，老师亲自进行Code Review。
+这个repo记录Java语言下使用测试驱动开发(Test-Driven Development, TDD) 来实现4种斐波那契函数。从零到一，自己独立构思设计。这是 [Dr. Venkat Subramaniam](https://agiledeveloper.com/aboutus.html)  (或者查看[ Personal Homepage of UH](https://www2.cs.uh.edu/~svenkat/))2022年[Software Design](https://www2.cs.uh.edu/~svenkat/spring2022sd/) 课程的一部分([课程大纲](https://www2.cs.uh.edu/~svenkat/spring2022sd/syllabus.txt))，老师亲自进行Code Review，体验完整的Agile开发。
 
 **任务** 
 
