@@ -31,9 +31,9 @@ Fibonacci函数的4种实现方式：
 
 **可学习到的技术**
 
-测试驱动开发(TDD), 自动化测试(CT)，持续集成(CI)，敏捷开发(Agile)，使用Jacoco查看代码coverage，使用pmd进行静态代码检查等。
+测试驱动开发 (TDD), 自动化测试 (CT)，持续集成 (CI)，敏捷开发 (Agile)，使用Jacoco查看代码coverage，使用pmd进行静态代码检查等。
 
-
+这里实现四种斐波那契数列函数比较简单，但是逐个实现，并且逐渐写单元测试，持续集成的过程还是学习到很多。比如从第一种实现到第二种实现，它的测试就不能仅仅是copy paste，需要重构测试的代码，需要用到类，用到类的继承，用到封装，方便代码的复用。
 
 **可学习到的设计原则**
 
@@ -62,8 +62,14 @@ Fibonacci函数的4种实现方式：
 >
 >Reuse as much code as possible.
 >
->Please bring forward the practices, techniques, and tools you have learned so far. This includes: Good code quality Lightweight design Minimum code Automated testing
->Code coverage Continuous integration
+>Please bring forward the practices, techniques, and tools you have learned so far. This includes: 
+>
+>- Good code quality 
+>- Lightweight design 
+>- Minimum code 
+>- Automated testing
+>- Code coverage 
+>- Continuous integration
 >
 >Once you complete coding, please answer the following:
 >
